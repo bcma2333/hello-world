@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+-My first repository
+-I am learning Git.
+-Git is so much fun.
